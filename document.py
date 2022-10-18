@@ -1,0 +1,1 @@
+print(""" a strin that you "don't" have to escape this is a .... multiline heredoc  string ....> example""")
